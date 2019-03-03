@@ -312,6 +312,11 @@ nav ul li a {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
+  
+}
+
+#brad {
+  color: #1f3860;
 }
 
 #about .about-descr .separator {
