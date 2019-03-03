@@ -61,7 +61,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #b8a07e#1f3860;
   text-decoration: underline;
 }
 
@@ -101,7 +101,7 @@ p {
 }
 
 .btn {
-  background: #333;
+  background: #1f3860;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -260,7 +260,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #1f3860;
 }
 
 .header-content p {
@@ -296,7 +296,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #1f3860;
 }
 
 #about .div-img-bg .about-img img {
